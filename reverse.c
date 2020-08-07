@@ -1,5 +1,4 @@
 /*
- * Project 5: reverse
  * Author: Ellie Kobak
  * usage:
  *
